@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Improving a content ingestion pipeline using AWS tools.**
 - 🌱 I’m currently learning **Information Security (Module: Writing Secure Code).**
-- 📫 How to reach me: [in/boterosergio](www.linkedin.com/in/boterosergio)
+- 📫 How to reach me: [in/boterosergio](https://www.linkedin.com/in/boterosergio)
 - ⚡ Fun fact: 🤫 The cat is the real code reviewer 🤫
