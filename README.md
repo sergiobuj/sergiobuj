@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Improving a content ingestion pipeline using AWS tools.**
-- 🌱 I’m currently learning **Information Security (Module: Writing Secure Code).**
+- 🔭 I’m currently working on **Improving Splice's content ingestion and curation pipeline using Go+AWS tools.**
+- 🌱 I’m currently learning **Information Security.**
+  - ☑️ Module: "Foundations of Information Security."
+  - ☑️ Module: "Writing Secure Code."
+  - 💬 Module: "Exploiting and Protecting Web Applications."
 - 📫 How to reach me: [in/boterosergio](https://www.linkedin.com/in/boterosergio)
 - ⚡ Fun fact: 🤫 The cat is the real code reviewer 🤫
