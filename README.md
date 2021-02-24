@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Improving Splice's content ingestion and curation pipeline using Go+AWS tools.**
+- 🔭 I’m currently **on a break.**
 - 🌱 I’m currently learning **Information Security.**
   - ✅ Module: "Foundations of Information Security."
   - ✅ Module: "Writing Secure Code."
   - ✅ Module: "Exploiting and Protecting Web Applications."
   - ✅ Module: "Using Cryptography Correctly".
-  - 💬Module: "Cyber Security and Executive Strategy".
+  - ✅ Module: "Cyber Security and Executive Strategy".
+  - 💬 Module: "Network Security".
 - 📖 Tech Reading: "The Pentester BluePrint: Starting a Career as an Ethical Hacker" by Phillip L. Wylie
 - 📫 How to reach me: [in/boterosergio](https://www.linkedin.com/in/boterosergio)
 - ⚡ Fun fact: 🤫 The cat is the real code reviewer 🤫
