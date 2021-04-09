@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - ✅ Module: "Exploiting and Protecting Web Applications."
   - ✅ Module: "Using Cryptography Correctly".
   - ✅ Module: "Cyber Security and Executive Strategy".
-  - 💬 Module: "Network Security".
+  - ✅ Module: "Network Security".
 - 📖 Tech Reading: "The Pentester BluePrint: Starting a Career as an Ethical Hacker" by Phillip L. Wylie
 - 📫 How to reach me: [in/boterosergio](https://www.linkedin.com/in/boterosergio)
 - ⚡ Fun fact: 🤫 The cat is the real code reviewer 🤫
