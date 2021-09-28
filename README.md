@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently **on a break.**
 -->
 
-- 🌱 I’m currently preparing for **eWPT Certification.**
+- 🌱 I’m currently preparing for the **eWPT Certification.**
 - 📖 Tech Reading: "Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems".
 - 📫 How to reach me: [in/boterosergio](https://www.linkedin.com/in/boterosergio)
 - ⚡ Fun fact: 🤫 The cat is the real code reviewer 🤫
