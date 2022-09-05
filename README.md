@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 🔭 I’m currently **on a break.**
+
+- 📖 Tech Reading: "Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems".
 -->
 
-- 🌱 I’m currently preparing for the **eWPT Certification.**
-- 📖 Tech Reading: "Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems".
+- 🌱 Learning about InfoSec. Enjoying TryHackMe.
 - 📫 How to reach me: [in/boterosergio](https://www.linkedin.com/in/boterosergio)
 - ⚡ Fun fact: 🤫 The cat is the real code reviewer 🤫
